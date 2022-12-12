@@ -1,3 +1,6 @@
+out 
 $ cat .gitignore
+.vs
 *.[oa]
 *~
+*.exe
